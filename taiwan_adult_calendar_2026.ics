@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//初級大人行事曆//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:初級大人重要期限 2026
+X-WR-TIMEZONE:Asia/Taipei
+X-WR-CALDESC:台灣初級大人必知的稅務、補助、保險重要期限提醒（2026年）
+
+BEGIN:VEVENT
+UID:tax-license-2026@taiwan-adult
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260501
+SUMMARY:🚗 牌照稅繳納期間（4/1–4/30）
+DESCRIPTION:自用汽機車牌照稅繳納期間。150cc以下機車免徵。可至超商、銀行或網路繳納。逾期每3日加徵1%滯納金，最高10%。
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tax-income-2026@taiwan-adult
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260602
+SUMMARY:📋 綜合所得稅申報截止（5/1–6/1）
+DESCRIPTION:2025年度綜合所得稅申報及繳納期間。可用手機、網路或臨櫃申報。記得確認退稅帳號！逾期加徵滯納金。
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tax-house-2026@taiwan-adult
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260602
+SUMMARY:🏠 房屋稅繳納期間（5/1–6/1）
+DESCRIPTION:2026年房屋稅繳納期間（截止日適逢假日順延至6/1）。可至超商、銀行或網路繳納。自住稅率1.2%，一般住家1.5%。
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rent-subsidy-deadline-2026@taiwan-adult
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:🏡 租金補貼申請截止（全年隨到隨辦，12/31 17:00止）
+DESCRIPTION:2026年「300億元中央擴大租金補貼專案」受理期間為1/1上午9點至12/31下午5點。每月補助2,000～8,000元，單身青年、新婚、育兒家庭可加碼。請至內政部不動產資訊平台申請。
+END:VEVENT
+
+BEGIN:VEVENT
+UID:land-tax-apply-2026@taiwan-adult
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:⚠️ 地價稅自用住宅優惠稅率申請截止（9/22）
+DESCRIPTION:想申請地價稅自用住宅優惠稅率（2‰，比一般10‰省5倍）必須在9/22前提出申請，逾期只能等明年。有自有房屋者務必把握！
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tax-land-2026@taiwan-adult
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
+SUMMARY:🌍 地價稅繳納期間（11/1–11/30）
+DESCRIPTION:地價稅繳納期間。有土地或房屋者需注意。可至超商、銀行或網路繳納。逾期每3日加徵1%滯納金，最高10%。
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vehicle-insurance-check-2026@taiwan-adult
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:🛵 提醒：檢查汽機車強制險是否即將到期
+DESCRIPTION:強制險到期上路將面臨罰款。請確認您的汽機車強制險有效期限，可至各保險公司網路續保。
+END:VEVENT
+
+END:VCALENDAR
